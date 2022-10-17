@@ -1,4 +1,4 @@
-#Group project topic: 0x11. C - printf
+Group project topic: 0x11. C - printf
 
 A collaborative project by Isaac Abah and Sly Musa to accomplish a task for ALX software Engineering Program (cohort 9)
 
